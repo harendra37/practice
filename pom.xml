@@ -105,8 +105,8 @@
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>http://3.88.168.249:8081/repository/mvn-snapshot/</name>
-	      <url>http://3.86.182.13:8081/repository/mvn-snapshot/</url>
+	      <name>Harendra Nexus Snapshot</name>
+	      <url>http://3.88.168.249:8081/repository/mvn-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
